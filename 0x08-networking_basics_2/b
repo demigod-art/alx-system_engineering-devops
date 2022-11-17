@@ -2,6 +2,6 @@
 
 git add .
 
-git commit -m "just testing"
+git commit -m "An automated git rquest"
 
 git push
